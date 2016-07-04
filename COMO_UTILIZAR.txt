@@ -1,0 +1,6 @@
+Para o funcionamento deve-se realizar os passos a seguir.
+
+- Baixar o projeto.
+- Baixar o arquivo o arquivo 'cep.dat' no link 'http://bit.ly/29iFViZ' e adicioná-lo à pasta 'ArquivosDoProjeto'.
+- Rodar a classe 'IndexadorDeArquivo' para gerar o arquivo 'MapDbCep', ou baixá-lo diretamente no link 'http://bit.ly/29cMMJ5' e adicioná-lo à pasta 'ArquivosDoProjeto'
+- Rodar as classes 'BuscaEndereco' e 'BuscaEnderecoNaoIndexado' para realizar a comparação de tempo.
